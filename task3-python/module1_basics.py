@@ -4,9 +4,9 @@ print("\n" + "="*50)
 print("Exercise 1. Employee ID Card")
 print("="*50)
 
-employee_full_name = "Ekaterina Volkova"      # str: employee's full name
-employee_age_years = 29                        # int: age in years
-employee_monthly_salary = 95000.75             # float: monthly salary in rubles
+employee_full_name = "Alex Serov"      # str: employee's full name
+employee_age_years = 23                        # int: age in years
+employee_monthly_salary = 87000.90             # float: monthly salary in rubles
 is_employee_working = True                     # bool: current employment status
 
 print(f"Employee Name: {employee_full_name}")

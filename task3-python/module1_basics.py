@@ -445,7 +445,7 @@ print("="*50)
 # Ввод данных (с другими числами)
 product_quantity_vat = int(input(" Введите количество товара: "))
 product_unit_price = float(input(" Введите цену за единицу (₽): "))
-vat_percent = float(input("🧾 Введите ставку НДС (%): "))
+vat_percent = float(input(" Введите ставку НДС (%): "))
 
 # Расчёт
 subtotal_without_vat = product_quantity_vat * product_unit_price

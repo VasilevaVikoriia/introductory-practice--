@@ -1,4 +1,3 @@
-"""
 Модуль 2. Условия и циклы. → module2_conditions.py
 if / elif / else, цикл for. 
 

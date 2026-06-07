@@ -1,3 +1,5 @@
+День 9. Модуль 3. Функции → module3_functions.py
+Что нужно освоить: def, параметры, return. 
 # ========== ЗАДАНИЕ 1 ==========
 def calculate_profit(revenue, costs):
     """
